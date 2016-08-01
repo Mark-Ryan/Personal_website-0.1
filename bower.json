@@ -1,0 +1,23 @@
+{
+  "name": "website",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Anthony Dell'Anno <anthony@dellanno.co.uk>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0",
+    "angular": "^1.5.0",
+    "angular-ui-router": "^0.2.18"
+  }
+}
